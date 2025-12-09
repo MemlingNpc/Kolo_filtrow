@@ -1,0 +1,44 @@
+{
+    "filters": [
+        {
+            "position": 1,
+            "name": "675 nm",
+            "exposure_multiplier": 0.6535
+        },
+        {
+            "position": 2,
+            "name": "650 nm",
+            "exposure_multiplier": 1.0838
+        },
+        {
+            "position": 3,
+            "name": "600 nm",
+            "exposure_multiplier": 1.6474
+        },
+        {
+            "position": 4,
+            "name": "575 nm",
+            "exposure_multiplier": 1.0305
+        },
+        {
+            "position": 5,
+            "name": "550 nm (Ref)",
+            "exposure_multiplier": 1.0
+        },
+        {
+            "position": 6,
+            "name": "500 nm ",
+            "exposure_multiplier": 4.3133
+        },
+        {
+            "position": 7,
+            "name": "400 nm",
+            "exposure_multiplier": 22.3531
+        },
+        {
+            "position": 8,
+            "name": "Pusty",
+            "exposure_multiplier": 0.1
+        }
+    ]
+}
