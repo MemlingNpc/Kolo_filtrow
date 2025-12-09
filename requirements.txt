@@ -1,0 +1,6 @@
+PySide6>=6.0.0
+opencv-python>=4.5.0
+numpy>=1.20.0
+pyserial>=3.5
+tifffile>=2023.0.0
+# Uwaga: thorlabs_tsi_sdk wymaga instalacji manualnej z plików producenta
