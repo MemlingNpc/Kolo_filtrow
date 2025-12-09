@@ -32,7 +32,7 @@ Projekt został zrealizowany w ramach pracy inżynierskiej.
 
 1.  **Sklonuj repozytorium:**
     ```bash
-    git clone [https://github.com/twoj-nick/twoj-projekt.git](https://github.com/twoj-nick/twoj-projekt.git)
+    git clone https://github.com/MemlingNpc/Kolo_filtrow.git
     cd twoj-projekt
     ```
 
@@ -82,3 +82,4 @@ Plik `config.json` zawiera mapowanie pozycji filtrów oraz mnożniki czasów eks
 Praca Inżynierska
 Politechnika Gdańska
 2025
+
