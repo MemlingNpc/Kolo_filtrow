@@ -47,7 +47,7 @@ void runHomingSequence() {
     if (error > ENCODER_MID_RANGE) {
       error -= ENCODER_RANGE;
     } else if (error < -ENCODER_MID_RANGE) {
-      error += ENCODER_RANGE; /
+      error += ENCODER_RANGE;
     }
     if (abs(error) <= ENCODER_TOLERANCE) {
       break; 
