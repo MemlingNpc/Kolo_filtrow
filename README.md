@@ -53,7 +53,7 @@ Projekt został zrealizowany w ramach pracy inżynierskiej.
 * `calibration.py` - Narzędzie do kalibracji filtrów (Tkinter).
 * `config.json` - Plik konfiguracyjny generowany przez kalibrator.
 * `windows_setup.py` - Skrypt pomocniczy do ładowania DLL Thorlabs.
-* `/firmware` - Kod źródłowy dla mikrokontrolera ESP32 (Arduino C++).
+* `stepper.ino` - Kod źródłowy dla mikrokontrolera ESP32 (Arduino C++).
 
 ## Konfiguracja i Kalibracja
 
@@ -82,4 +82,5 @@ Plik `config.json` zawiera mapowanie pozycji filtrów oraz mnożniki czasów eks
 Praca Inżynierska
 Politechnika Gdańska
 2025
+
 
