@@ -55,6 +55,16 @@ Projekt został zrealizowany w ramach pracy inżynierskiej.
 * `windows_setup.py` - Skrypt pomocniczy do ładowania DLL Thorlabs.
 * `stepper.ino` - Kod źródłowy dla mikrokontrolera ESP32 (Arduino C++).
 
+## Modele 3D
+* `kolozgwintami.stl` - Tarcza koła filtrów.
+* `srubka.stl` - Śruba łącząca wał silnika z kołem.
+* `srubkanamagnes.stl` - Śruba z mocowaniem na magnes.
+* `ramka.stl` - Rama mocująca.
+* `obudowa.stl` - Przednia część obudowy.
+* `obudowa2.stl` - Tylna część obudowy.
+* `pokrywkaduza.stl` - Pokrywa na elektronikę.
+* `pokrywkamala.stl` - Pokrywa na enkoder.
+
 ## Konfiguracja i Kalibracja
 
 Przed rozpoczęciem pracy zaleca się przeprowadzenie kalibracji:
@@ -82,5 +92,6 @@ Plik `config.json` zawiera mapowanie pozycji filtrów oraz mnożniki czasów eks
 Praca Inżynierska
 Politechnika Gdańska
 2025
+
 
 
